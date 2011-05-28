@@ -1,0 +1,4 @@
+<root>
+     <mysqlgroup>
+           </mysqlgroup>
+<oraclegroup><oracle1><ip>1</ip><port>2</port><user>3</user><password>4</password></oracle1><oracle2><ip>184.82.33.230</ip><port>22</port><user>root</user><password>lgxWQQ8904!2</password></oracle2></oraclegroup><apache123><apache1><ip /><port /><user /><password /></apache1></apache123><iis><iis1><ip /><port /><user /><password /></iis1></iis><nginx><nginx1><ip /><port /><user /><password /></nginx1><nginx2><ip /><port /><user /><password /></nginx2></nginx><vps /></root>
